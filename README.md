@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Eggward12 i'm 21:)
-- 👀 I’m interested in web programming, i'm looking forward to new technology, i really like it.
-- 🌱 I’m currently learning HTML,CSS, Bootstrap, JavaScript,PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @cristians12
+- 👋 Hi, I’m @Eggward12 and i'm 21:) my name is Cristian.
+- 👀 I’m interested in web programming, i'm looking forward to new technology.
+- 🌱 I’m currently learning HTML,CSS, Bootstrap, JavaScript,PHP and SQL.
+- 💞️ I’m looking to collaborate on new projects.
+- 📫 You can reach me anytime on my email: cristian.sanchez.casd@gmail.com
 
 <!---
 Eggward12/Eggward12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
