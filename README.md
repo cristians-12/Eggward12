@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eggward12 and i'm 21:) my name is Cristian.
+- 👋 Hi, I’m @Eggward12 and i'm 22:) my name is Cristian.
 - 👀 I’m interested in web programming, i'm looking forward to new technology.
 - 🌱 I’m currently learning HTML,CSS, Bootstrap, JavaScript,PHP and SQL.
 - 💞️ I’m looking to collaborate on new projects.
